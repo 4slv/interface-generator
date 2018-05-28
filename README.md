@@ -33,6 +33,7 @@ interface BankInterface
      * @return Money деньги
      */
     function getCredit(Money $requestedAmount, int $requestedPeriod): Bank\Money;
+    
     /**
      * Открыть вклад
      * @param Investment\Money $investedAmount вкладываемая сумма
