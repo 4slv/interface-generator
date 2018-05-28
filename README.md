@@ -41,6 +41,8 @@ interface BankInterface
      * @return boolean true - банк принял деньги, false - нет
      */
     function openDeposit(Investment\Money $investedAmount, int $requestedPeriod): boolean;
+    
+    
 }
 ```
 
