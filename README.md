@@ -16,7 +16,7 @@ $interfaceContent = $interfaceGenerator
 ```
 , где $interfaceMethodList - список объектов типа InterfaceMethod
 
-$interfaceContent будет содержать будет содержать код интерфейса:
+$interfaceContent будет содержать код интерфейса:
 ```php
 <?php
 namespace Bank;
