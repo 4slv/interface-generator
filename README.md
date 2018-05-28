@@ -20,7 +20,9 @@ $interfaceContent будет содержать будет содержать к
 ```php
 <?php
 namespace Bank;
+
 use Request\Money;
+
 /** Интерфейс банка */
 interface BankInterface
 {
