@@ -1,0 +1,3 @@
+%methodComments%
+    function %methodName%(%methodParameters%)%returnType%;
+

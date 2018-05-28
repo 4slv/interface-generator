@@ -1,0 +1,10 @@
+<?php
+namespace %namespace%;
+
+%useClasses%
+
+%interfaceComment%
+interface %interfaceName%
+{
+%interfaceMethods%
+}
