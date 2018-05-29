@@ -10,7 +10,7 @@
     }
   ],
   "require": {
-    "4slv/helper": "v1.0.0"
+    "4slv/helper": "v1.0.1"
   },
   "require-dev": {
     "phpunit/phpunit": "7.1.4"
